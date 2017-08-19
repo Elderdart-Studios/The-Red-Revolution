@@ -30,3 +30,23 @@ Added Rotating Camera Function to MainMenu Scipt
 
 Version: 0.02
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+Main menu updated
+
+Added MainMenu Script
+
+Added MainMenu Scene
+
+Added SinglePlayerMenu Scene
+
+Added MutliPlayerMenu Scene
+
+Added SkirmishMenu Scene
+
+Added OptionsMenu Scene
+
+Added Exit Function
+
+Added Rotating Camera Function to MainMenu Scipt
+
+Added structured file/folder system & Script for main menu.
