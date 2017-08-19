@@ -11,11 +11,20 @@ Basic Project with no assest
 Version: 0.01
 ------------------------------------------------------------------------------------------------------------------------------------------
 Main menu updated
+
 Added MainMenu Script
+
 Added MainMenu Scene
+
 Added SinglePlayerMenu Scene
+
 Added MutliPlayerMenu Scene
+
 Added SkirmishMenu Scene
+
 Added OptionsMenu Scene
+
 Added Exit Function
+
 Added Rotating Camera Function to MainMenu Scipt
+
