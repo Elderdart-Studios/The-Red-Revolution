@@ -1,0 +1,87 @@
+Mono path[0] = 'C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/V0.03_Data/Managed'
+Mono config path = 'C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/V0.03_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/V0.03_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55172
+Multi-casting "[IP] 192.168.1.195 [Port] 55172 [Flags] 2 [Guid] 1536074350 [EditorId] 3073602074 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-7V385U7) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55172]
+PlayerConnection already initialized - listening to [0.0.0.0:55172]
+Player data archive not found at `C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/V0.03_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8139 MB
+    Driver:   22.19.662.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\V0.03_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.868513 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 1dc4 -> priority: 1 
+  Thread -> id: 1050 -> priority: 1 
+  Thread -> id: 195c -> priority: 1 
+  Thread -> id: 1e08 -> priority: 1 
+  Thread -> id: 688 -> priority: 1 
+  Thread -> id: 534 -> priority: 1 
+  Thread -> id: 25cc -> priority: 1 
+  Thread -> id: 2408 -> priority: 1 
+stopping Smoke
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityStandardAssets.Utility.<Start>c__Iterator0:MoveNext() (at C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\Assets\Main\Standard Assets\Utility\ParticleSystemDestroyer.cs:39)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/Assets/Main/Standard Assets/Utility/ParticleSystemDestroyer.cs Line: 39)
+
+stopping Smoke
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityStandardAssets.Utility.<Start>c__Iterator0:MoveNext() (at C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\Assets\Main\Standard Assets\Utility\ParticleSystemDestroyer.cs:39)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/Assets/Main/Standard Assets/Utility/ParticleSystemDestroyer.cs Line: 39)
+
+stopping Smoke
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityStandardAssets.Utility.<Start>c__Iterator0:MoveNext() (at C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\Assets\Main\Standard Assets\Utility\ParticleSystemDestroyer.cs:39)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/Assets/Main/Standard Assets/Utility/ParticleSystemDestroyer.cs Line: 39)
+
+stopping Smoke
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityStandardAssets.Utility.<Start>c__Iterator0:MoveNext() (at C:\Users\Realm Elderdart\Documents\Projects\Elderdart studios\The-Red-Revolution\The-Red-Revolution\Assets\Main\Standard Assets\Utility\ParticleSystemDestroyer.cs:39)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Realm Elderdart/Documents/Projects/Elderdart studios/The-Red-Revolution/The-Red-Revolution/Assets/Main/Standard Assets/Utility/ParticleSystemDestroyer.cs Line: 39)
+
