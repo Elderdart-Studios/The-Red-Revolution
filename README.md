@@ -12,27 +12,8 @@ Version: 0.01
 ------------------------------------------------------------------------------------------------------------------------------------------
 Main menu updated
 
-Added MainMenu Script
-
-Added MainMenu Scene
-
-Added SinglePlayerMenu Scene
-
-Added MutliPlayerMenu Scene
-
-Added SkirmishMenu Scene
-
-Added OptionsMenu Scene
-
-Added Exit Function
-
-Added Rotating Camera Function to MainMenu Scipt
-
 Version: 0.02
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-Main menu updated
-
 Added MainMenu Script
 
 Added MainMenu Scene
@@ -50,3 +31,10 @@ Added Exit Function
 Added Rotating Camera Function to MainMenu Scipt
 
 Added structured file/folder system & Script for main menu.
+
+Version: 0.03
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Fixed Cam Bugs
+
+Added Post Processing
