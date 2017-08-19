@@ -6,11 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/c3dea7d5afa704c44b6907a6e45c9c6d
+    path: 
     guid: c3dea7d5afa704c44b6907a6e45c9c6d
   - enabled: 1
-    path: Assets/Main.unity
+    path: Assets/Raw/UI/MainMenu.unity
     guid: 9cfba98c6245aa248a4ea03678acaa60
-  - enabled: 1
-    path: Assets/TestLevel.unity
+  - enabled: 0
+    path: 
     guid: a2106fbb797dd804392754eafaf83aea
+  - enabled: 1
+    path: Assets/Raw/UI/SinglePlayerMenu.unity
+    guid: 7f75c1b15345f5a4a8a9faf4c3a5961c
+  - enabled: 1
+    path: Assets/Raw/UI/MutliPlayerMenu.unity
+    guid: 45f5ea18f48c1894a80bc1de2b71e8ee
+  - enabled: 1
+    path: Assets/Raw/UI/SkirmishMenu.unity
+    guid: 19a8f53672e866b4ebc593848e2e7ef4
+  - enabled: 1
+    path: Assets/Raw/UI/OptionsMenu.unity
+    guid: 9ea6e92f6e4dcbf46a4478e449c39486
